@@ -76,17 +76,17 @@ The tool provides:
 
 Example console output:
     
-    ```text
-    Final Summary:
-    Total wallets checked: 50
-    Wallets with trustline: 45
-    Wallets without trustline: 5
-    
-    Wallets missing trust lines:
-    1. rWallet1
-    2. rWallet2
-    ...
-    ```
+     ```
+     Final Summary:
+     Total wallets checked: 50
+     Wallets with trustline: 45
+     Wallets without trustline: 5
+     
+     Wallets missing trust lines:
+     1. rWallet1
+     2. rWallet2
+     3. rWallet3
+     ```
 
 ## Configuration Notes
 
