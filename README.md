@@ -21,7 +21,7 @@ A Python utility for verifying XRPL fungible token trust lines across multiple w
 1. Clone the repository and set up environment:
 
     ```bash
-    git clone git@github.com:yourusername/xrpl-trustline-checker.git
+    git clone git@github.com:KeithTheDev/xrpl-multi-sender-tools.git
     cd xrpl-trustline-checker
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
