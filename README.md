@@ -16,7 +16,7 @@ A Python utility for verifying XRPL fungible token trust lines across multiple w
 - Git
 - Active internet connection
 
-## Installation
+## Installation
 
 1. Clone the repository and set up environment:
 
